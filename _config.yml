@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: https://kristofraes.github.io/test/
-baseurl: /project
+url: https://kristofraes.github.io/
+baseurl: /test
 
 # variables
 name: KristofRaes.be
